@@ -6,3 +6,4 @@
 -(Aleksa Aleksić)
 ##Osnovni zahtjevi
 (Kupac može filtrirati jelovnik po kategorijama jela.Kupac može da koristi sve mogućnosti i pogodnosti online.Može plaćati google pay-om.)
+(Uredjivanje svoje korpe po želji.)
